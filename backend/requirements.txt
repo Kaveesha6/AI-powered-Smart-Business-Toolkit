@@ -5,8 +5,8 @@ uvicorn==0.27.0
 pandas==2.1.4
 scikit-learn==1.4.0
 
-torch==2.1.2+cpu
-torchvision==0.16.2+cpu
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
 sentence-transformers==2.2.2
 
 sqlalchemy==2.0.37
