@@ -1,0 +1,20 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.bolt/
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/bizbuddy.db
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporarily exclude - will add in Kaveesha-Chatbot-Feature branch
+frontend/src/pages/CompetitorAnalysis.tsx
+frontend/src/pages/MarketTrends.tsx
