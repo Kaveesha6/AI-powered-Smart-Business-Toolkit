@@ -43,7 +43,3 @@ lerna-debug.log*
 .bolt/
 *.tmp
 
-# ─────────────────────────────────────────────────
-# IMPORTANT: Exclude these for now (add in branches)
-# ─────────────────────────────────────────────────
-src/pages/MarketTrends.tsx
